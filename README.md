@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sakshi200525/leetcode_solution/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sakshi200525/leetcode_solution/tree/master/0075-sort-colors) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sakshi200525/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshi200525/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Sakshi200525/leetcode_solution/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
