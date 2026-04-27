@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Sakshi200525/leetcode_solution/tree/master/0066-plus-one) |
 | [0319-bulb-switcher](https://github.com/Sakshi200525/leetcode_solution/tree/master/0319-bulb-switcher) |
 ## Brainteaser
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Sakshi200525/leetcode_solution/tree/master/0179-largest-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
