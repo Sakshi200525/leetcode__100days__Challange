@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sakshi200525/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Sakshi200525/leetcode_solution/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sakshi200525/leetcode_solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0215-kth-largest-element-in-an-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sakshi200525/leetcode_solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sakshi200525/leetcode_solution/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
