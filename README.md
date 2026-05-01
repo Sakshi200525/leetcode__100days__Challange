@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sakshi200525/leetcode_solution/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -139,4 +140,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Sakshi200525/leetcode__100days__Challange/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
